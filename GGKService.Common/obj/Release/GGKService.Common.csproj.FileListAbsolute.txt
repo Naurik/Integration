@@ -1,0 +1,15 @@
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\GGKService.Common.dll
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\GGKService.Common.pdb
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\Dapper.dll
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\DevExpress.Data.v20.2.dll
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\DevExpress.Xpo.v20.2.dll
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\log4net.dll
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\Dapper.xml
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\DevExpress.Data.v20.2.xml
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\DevExpress.Xpo.v20.2.xml
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\bin\Release\log4net.xml
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\obj\Release\GGKService.Common.csprojAssemblyReference.cache
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\obj\Release\GGKService.Common.csproj.CoreCompileInputs.cache
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\obj\Release\GGKService.Common.csproj.CopyComplete
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\obj\Release\GGKService.Common.dll
+C:\Users\Назия\source\repos\GGK_Integration\GGKService.Common\obj\Release\GGKService.Common.pdb

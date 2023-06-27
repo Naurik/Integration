@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGKService.Common", "GGKService.Common\GGKService.Common.csproj", "{FFD038AD-E7C6-4692-9369-ECCB7FA1209E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHEP", "SHEP\SHEP.csproj", "{06641203-440A-4416-BD75-AC9FC4EBEC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGKService.ClientForGZK", "GGKService.ClientForGZK\GGKService.ClientForGZK.csproj", "{91CCF1D7-7164-4C52-B235-99415952E8C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGKService.Logic", "GGKService.Logic\GGKService.Logic.csproj", "{AFDCCF7B-8E88-466E-9F80-3272A6D563D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGKService.ServerForGZK", "GGKService.ServerForGZK\GGKService.ServerForGZK.csproj", "{70DEB76F-BAFC-4190-A654-2739864A3F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD038AD-E7C6-4692-9369-ECCB7FA1209E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD038AD-E7C6-4692-9369-ECCB7FA1209E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD038AD-E7C6-4692-9369-ECCB7FA1209E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD038AD-E7C6-4692-9369-ECCB7FA1209E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06641203-440A-4416-BD75-AC9FC4EBEC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06641203-440A-4416-BD75-AC9FC4EBEC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06641203-440A-4416-BD75-AC9FC4EBEC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06641203-440A-4416-BD75-AC9FC4EBEC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CCF1D7-7164-4C52-B235-99415952E8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CCF1D7-7164-4C52-B235-99415952E8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CCF1D7-7164-4C52-B235-99415952E8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CCF1D7-7164-4C52-B235-99415952E8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDCCF7B-8E88-466E-9F80-3272A6D563D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDCCF7B-8E88-466E-9F80-3272A6D563D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDCCF7B-8E88-466E-9F80-3272A6D563D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDCCF7B-8E88-466E-9F80-3272A6D563D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DEB76F-BAFC-4190-A654-2739864A3F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DEB76F-BAFC-4190-A654-2739864A3F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DEB76F-BAFC-4190-A654-2739864A3F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DEB76F-BAFC-4190-A654-2739864A3F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2071302E-3831-42B5-94D8-58819DB5DEA5}
+	EndGlobalSection
+EndGlobal

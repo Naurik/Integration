@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "SecondRequest";
+}
+
+<h2>Ввод данных для второго запроса</h2>
+<form action="/ActualDataSend/SecondRequest" method="post">
+    <div class="item">
+        <label>Введит LayerName</label>
+        <input name="layerName" />
+        <label>Введит RequestUser</label>
+        <input name="reqUser" />
+    </div>
+    <input type="submit" value="Отправить" />
+</form>
+

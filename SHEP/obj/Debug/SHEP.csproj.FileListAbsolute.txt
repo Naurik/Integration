@@ -1,0 +1,17 @@
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Debug\SHEP.csproj.CoreCompileInputs.cache
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\SHEP.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\SHEP.pdb
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\Dapper.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\GGKService.Common.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\log4net.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\GGKService.Common.pdb
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\Dapper.xml
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Debug\log4net.xml
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Debug\SHEP.csproj.CopyComplete
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Debug\SHEP.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Debug\SHEP.pdb
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Debug\SHEP.csproj.AssemblyReference.cache

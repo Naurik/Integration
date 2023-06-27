@@ -1,0 +1,17 @@
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\SHEP.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\SHEP.pdb
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\Dapper.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\DevExpress.Data.v20.2.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\DevExpress.Xpo.v20.2.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\GGKService.Common.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\log4net.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\GGKService.Common.pdb
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\Dapper.xml
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\DevExpress.Data.v20.2.xml
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\DevExpress.Xpo.v20.2.xml
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\bin\Release\log4net.xml
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Release\SHEP.csprojAssemblyReference.cache
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Release\SHEP.csproj.CoreCompileInputs.cache
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Release\SHEP.csproj.CopyComplete
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Release\SHEP.dll
+C:\Users\Назия\source\repos\GGK_Integration\SHEP\obj\Release\SHEP.pdb
